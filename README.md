@@ -1,2 +1,3 @@
 # razib
-This is test repo
+This is my test repository.
+This is my first commit.
